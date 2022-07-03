@@ -1,8 +1,10 @@
-# Telegtaph-articles
-## Simple code examples:
+# Telegraph-articles
+Articles i wrote to help people learn how to code.
+
+### Simple code examples:
 * [Kotlin collections: Union, Subtract, Intersect](https://telegra.ph/Kotlin-collections-Union-Subtract-Intersect-07-03)
 
-## En
+### En
 
-## Ru
+### Ru
 * [Композиция через делегирование в Kotlin](https://telegra.ph/Kompoziciya-cherez-delegirovanie-v-Kotlin-07-03)
