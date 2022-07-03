@@ -1,5 +1,4 @@
-# Telegraph-articles
-Articles i wrote to help people learn how to code.
+# Articles
 
 ### Simple code examples:
 * [Kotlin collections: Union, Subtract, Intersect](https://telegra.ph/Kotlin-collections-Union-Subtract-Intersect-07-03)
