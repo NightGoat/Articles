@@ -7,6 +7,7 @@
 
 ### Ru
 * [Композиция через делегирование в Kotlin](https://telegra.ph/Kompoziciya-cherez-delegirovanie-v-Kotlin-07-03)
+* [Принципы ООП](https://telegra.ph/Principy-OOP-07-03)
 * [GRASP принципы на языке Kotlin: Information Expert](https://telegra.ph/GRASP-principy-na-yazyke-Kotlin-Information-Expert-07-03)
 * [GRASP принципы на языке Kotlin: Creator](https://telegra.ph/GRASP-principy-na-yazyke-Kotlin-Creator-07-03)
 * [GRASP принципы на языке Kotlin: Controller](https://telegra.ph/Kompoziciya-cherez-delegirovanie-v-Kotlin-07-03)
